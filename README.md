@@ -5,14 +5,14 @@ El archivo con los correos electrónicos se encuentra dentro de la carpeta de ca
 
 El código se distribuye en 3 paquetes, siguiendo el patrón MVC:
 1. Main (Controller)
-- kata4.java (main)
+  - kata4.java (main)
 2. Model
-- Histogram.java
- - Mail.java
+  - Histogram.java
+  - Mail.java
 3. View
- - HistogramDisplay.java
+  - HistogramDisplay.java
   - MailHistogramBuilder.java
-- MailListReader.java
+  - MailListReader.java
 
 ### Versión 1
 La clase 
