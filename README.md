@@ -8,10 +8,10 @@ El código se distribuye en 3 paquetes, siguiendo el patrón MVC:
 - kata4.java (main)
 2. Model
 - Histogram.java
-- Mail.java
+ - Mail.java
 3. View
-- HistogramDisplay.java
-- MailHistogramBuilder.java
+ - HistogramDisplay.java
+  - MailHistogramBuilder.java
 - MailListReader.java
 
 ### Versión 1
