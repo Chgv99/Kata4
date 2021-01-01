@@ -15,7 +15,8 @@ El código se distribuye en 3 paquetes, siguiendo el patrón MVC:
   - MailListReader.java
 
 ### Versión 1
-La clase 
+La clase kata4 solo tiene el método principal, el cual hace todas las llamadas a las distintas clases del programa.
 
 ### Versión 2
-
+La clase kata4 ahora cuenta, además del método principal, con los métodos execute, input, process y output, siguiendo el modelo CIPO.
+De esta manera, las distintas actividades quedan separadas en métodos dedicados para cada fin. Por ejemplo, el método input está destinado sólamente a llamar al método que lee los correos electrónicos del archivo de texto y los guarda en una lista de objetos Mail.
