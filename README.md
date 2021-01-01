@@ -4,12 +4,12 @@ Programa que crea un histograma de los dominios de una lista de correos electró
 El archivo con los correos electrónicos se encuentra dentro de la carpeta de cada versión
 
 El código se distribuye en 3 paquetes, siguiendo el patrón MVC:
-1. Main (Controller)
+- Main (Controller)
   - kata4.java (main)
-2. Model
+- Model
   - Histogram.java
   - Mail.java
-3. View
+- View
   - HistogramDisplay.java
   - MailHistogramBuilder.java
   - MailListReader.java
