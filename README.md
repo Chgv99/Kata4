@@ -1,7 +1,7 @@
 # Kata 4
 
 Programa que crea un histograma de los dominios de una lista de correos electrónicos almacenados en un archivo de texto.
-El archivo con los correos electrónicos se encuentra dentro de la carpeta de cada versión
+El archivo con los correos electrónicos se encuentra dentro de la carpeta de cada versión.
 
 El código se distribuye en 3 paquetes, siguiendo el patrón MVC:
 - Main (Controller)
